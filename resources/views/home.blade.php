@@ -229,8 +229,8 @@ style="background-image:url({{ asset('assets') }}/images/langit.png);">
                             <h3 style="color: #ffea9f">Resepsi</h3>
                             <div class="event-col">
                                 <i class="icon-clock"></i>
-                                <span>10:00 AM</span>
                                 <span>11:00 AM</span>
+                                <span>12:00 PM</span>
                             </div>
                             <div class="event-col">
                                 <i class="icon-calendar"></i>
